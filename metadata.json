@@ -1,0 +1,8 @@
+
+{
+  "name": "Learn2Earn",
+  "description": "An AI-integrated gamified student expense tracker that unlocks budget based on academic performance via custom quizzes generated from handouts.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
